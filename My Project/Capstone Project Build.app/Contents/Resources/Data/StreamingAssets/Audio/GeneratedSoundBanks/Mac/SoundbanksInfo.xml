@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>/Users/shelbyhornback/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/WwiseProjects/Capstone/</ProjectRoot>
+		<SourceFilesRoot>/Users/shelbyhornback/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/WwiseProjects/Capstone/.cache/Mac/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/shelbyhornback/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/WwiseProjects/Capstone/GeneratedSoundBanks/Mac/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/shelbyhornback/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/WwiseProjects/Capstone/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3604216555">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1731745708" Language="SFX" Hash="1815128870">
+			<ObjectPath>\SoundBanks\Default Work Unit\MainGame</ObjectPath>
+			<ShortName>MainGame</ShortName>
+			<Path>MainGame.bnk</Path>
+			<IncludedEvents>
+				<Event Id="412724365" Name="BGM" ObjectPath="\Events\Default Work Unit\BGM" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="30681745" Language="SFX">
+							<ShortName>Tuba_1.wav</ShortName>
+							<Path>SFX/Tuba_1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="82207703" Language="SFX">
+							<ShortName>Punch Kick - HighFailVictory_1.wav</ShortName>
+							<Path>SFX/Punch Kick - HighFailVictory_1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="232902233" Language="SFX">
+							<ShortName>Attacker - All_1.wav</ShortName>
+							<Path>SFX/Attacker - All_1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="291622832" Language="SFX">
+							<ShortName>Low Drone - AllFail_1.wav</ShortName>
+							<Path>SFX/Low Drone - AllFail_1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="371126487" Language="SFX">
+							<ShortName>Slow Ticking - LowMid_1.wav</ShortName>
+							<Path>SFX/Slow Ticking - LowMid_1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="466278925" Language="SFX">
+							<ShortName>Trombone_1.wav</ShortName>
+							<Path>SFX/Trombone_1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="466369029" Language="SFX">
+							<ShortName>Fast Ticking - High_1.wav</ShortName>
+							<Path>SFX/Fast Ticking - High_1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="525527321" Language="SFX">
+							<ShortName>Punch Kick - Mid_1.wav</ShortName>
+							<Path>SFX/Punch Kick - Mid_1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="644985931" Language="SFX">
+							<ShortName>Metallic Melody - MidHighVictory_1.wav</ShortName>
+							<Path>SFX/Metallic Melody - MidHighVictory_1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="708158762" Language="SFX">
+							<ShortName>Trumpet_1.wav</ShortName>
+							<Path>SFX/Trumpet_1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="811575868" Language="SFX">
+							<ShortName>Drum Beat - High_1.wav</ShortName>
+							<Path>SFX/Drum Beat - High_1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="827911622" Language="SFX">
+							<ShortName>Drum Beat - Mid_1.wav</ShortName>
+							<Path>SFX/Drum Beat - Mid_1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1065031846" Language="SFX">
+							<ShortName>Horns_1.wav</ShortName>
+							<Path>SFX/Horns_1_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2090192256" Name="BGM_Stop" ObjectPath="\Events\Default Work Unit\BGM_Stop" DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="221232726" Name="Lose" ObjectPath="\Events\Default Work Unit\Lose" DurationType="OneShot" DurationMin="5.454047" DurationMax="5.454047">
+					<IncludedMemoryFiles>
+						<File Id="239301655" Language="SFX">
+							<ShortName>Failure2.wav</ShortName>
+							<Path>SFX/Failure2_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2005704188" Name="Main_Menu" ObjectPath="\Events\Default Work Unit\Main_Menu" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="575713717" Language="SFX">
+							<ShortName>Capstone Menu Music Draft 2.wav</ShortName>
+							<Path>SFX/Capstone Menu Music Draft 2_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3862474635" Name="Main_Menu_Stop" ObjectPath="\Events\Default Work Unit\Main_Menu_Stop" DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="979765101" Name="Win" ObjectPath="\Events\Default Work Unit\Win" DurationType="OneShot" DurationMin="11.379297" DurationMax="11.379297">
+					<IncludedMemoryFiles>
+						<File Id="646168684" Language="SFX">
+							<ShortName>Victory.wav</ShortName>
+							<Path>SFX/Victory_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="30681745" Language="SFX">
+					<ShortName>Tuba_1.wav</ShortName>
+					<Path>SFX/Tuba_1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="82207703" Language="SFX">
+					<ShortName>Punch Kick - HighFailVictory_1.wav</ShortName>
+					<Path>SFX/Punch Kick - HighFailVictory_1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="232902233" Language="SFX">
+					<ShortName>Attacker - All_1.wav</ShortName>
+					<Path>SFX/Attacker - All_1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="239301655" Language="SFX">
+					<ShortName>Failure2.wav</ShortName>
+					<Path>SFX/Failure2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="291622832" Language="SFX">
+					<ShortName>Low Drone - AllFail_1.wav</ShortName>
+					<Path>SFX/Low Drone - AllFail_1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="371126487" Language="SFX">
+					<ShortName>Slow Ticking - LowMid_1.wav</ShortName>
+					<Path>SFX/Slow Ticking - LowMid_1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="466278925" Language="SFX">
+					<ShortName>Trombone_1.wav</ShortName>
+					<Path>SFX/Trombone_1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="466369029" Language="SFX">
+					<ShortName>Fast Ticking - High_1.wav</ShortName>
+					<Path>SFX/Fast Ticking - High_1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="525527321" Language="SFX">
+					<ShortName>Punch Kick - Mid_1.wav</ShortName>
+					<Path>SFX/Punch Kick - Mid_1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="575713717" Language="SFX">
+					<ShortName>Capstone Menu Music Draft 2.wav</ShortName>
+					<Path>SFX/Capstone Menu Music Draft 2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="644985931" Language="SFX">
+					<ShortName>Metallic Melody - MidHighVictory_1.wav</ShortName>
+					<Path>SFX/Metallic Melody - MidHighVictory_1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="646168684" Language="SFX">
+					<ShortName>Victory.wav</ShortName>
+					<Path>SFX/Victory_D79FB2B7.wem</Path>
+				</File>
+				<File Id="708158762" Language="SFX">
+					<ShortName>Trumpet_1.wav</ShortName>
+					<Path>SFX/Trumpet_1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="811575868" Language="SFX">
+					<ShortName>Drum Beat - High_1.wav</ShortName>
+					<Path>SFX/Drum Beat - High_1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="827911622" Language="SFX">
+					<ShortName>Drum Beat - Mid_1.wav</ShortName>
+					<Path>SFX/Drum Beat - Mid_1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="1065031846" Language="SFX">
+					<ShortName>Horns_1.wav</ShortName>
+					<Path>SFX/Horns_1_D79FB2B7.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+			<GameParameters>
+				<GameParameter Id="4245704323" Name="playerPosition" ObjectPath="\Game Parameters\Default Work Unit\playerPosition"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

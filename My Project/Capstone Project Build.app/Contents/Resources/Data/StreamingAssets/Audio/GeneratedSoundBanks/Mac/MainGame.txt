@@ -1,0 +1,29 @@
+Event	ID	Name			Wwise Object Path	Notes
+	221232726	Lose			\Default Work Unit\Lose	
+	412724365	BGM			\Default Work Unit\BGM	
+	979765101	Win			\Default Work Unit\Win	
+	2005704188	Main_Menu			\Default Work Unit\Main_Menu	
+	2090192256	BGM_Stop			\Default Work Unit\BGM_Stop	
+	3862474635	Main_Menu_Stop			\Default Work Unit\Main_Menu_Stop	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	4245704323	playerPosition			\Default Work Unit\playerPosition	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	30681745	Tuba_1	Y:\Documents\WwiseProjects\Capstone\.cache\Mac\SFX\Tuba_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Intensity\Intensity\Tuba_1		5839592
+	82207703	Punch Kick - HighFailVictory_1	Y:\Documents\WwiseProjects\Capstone\.cache\Mac\SFX\Punch Kick - HighFailVictory_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Intensity\Intensity\Punch Kick - HighFailVictory_1		5839592
+	232902233	Attacker - All_1	Y:\Documents\WwiseProjects\Capstone\.cache\Mac\SFX\Attacker - All_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Intensity\Intensity\Attacker - All_1		5839592
+	239301655	Failure2	Y:\Documents\WwiseProjects\Capstone\.cache\Mac\SFX\Failure2_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\LoseMusic\LoseMusic\Failure2		1095040
+	291622832	Low Drone - AllFail_1	Y:\Documents\WwiseProjects\Capstone\.cache\Mac\SFX\Low Drone - AllFail_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Intensity\Intensity\Low Drone - AllFail_1		5839592
+	371126487	Slow Ticking - LowMid_1	Y:\Documents\WwiseProjects\Capstone\.cache\Mac\SFX\Slow Ticking - LowMid_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Intensity\Intensity\Slow Ticking - LowMid_1		5839592
+	466278925	Trombone_1	Y:\Documents\WwiseProjects\Capstone\.cache\Mac\SFX\Trombone_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Intensity\Intensity\Trombone_1		5839592
+	466369029	Fast Ticking - High_1	Y:\Documents\WwiseProjects\Capstone\.cache\Mac\SFX\Fast Ticking - High_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Intensity\Intensity\Fast Ticking - High_1		5839592
+	525527321	Punch Kick - Mid_1	Y:\Documents\WwiseProjects\Capstone\.cache\Mac\SFX\Punch Kick - Mid_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Intensity\Intensity\Punch Kick - Mid_1		5839592
+	575713717	Capstone Menu Music Draft 2	Y:\Documents\WwiseProjects\Capstone\.cache\Mac\SFX\Capstone Menu Music Draft 2_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Menu\Menu\Capstone Menu Music Draft 2		13138904
+	644985931	Metallic Melody - MidHighVictory_1	Y:\Documents\WwiseProjects\Capstone\.cache\Mac\SFX\Metallic Melody - MidHighVictory_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Intensity\Intensity\Metallic Melody - MidHighVictory_1		5839592
+	646168684	Victory	Y:\Documents\WwiseProjects\Capstone\.cache\Mac\SFX\Victory_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\WinMusic\WinMusic\Victory		2007452
+	708158762	Trumpet_1	Y:\Documents\WwiseProjects\Capstone\.cache\Mac\SFX\Trumpet_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Intensity\Intensity\Trumpet_1		5839592
+	811575868	Drum Beat - High_1	Y:\Documents\WwiseProjects\Capstone\.cache\Mac\SFX\Drum Beat - High_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Intensity\Intensity\Drum Beat - High_1		5839592
+	827911622	Drum Beat - Mid_1	Y:\Documents\WwiseProjects\Capstone\.cache\Mac\SFX\Drum Beat - Mid_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Intensity\Intensity\Drum Beat - Mid_1		5839592
+	1065031846	Horns_1	Y:\Documents\WwiseProjects\Capstone\.cache\Mac\SFX\Horns_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Intensity\Intensity\Horns_1		5839592
+
